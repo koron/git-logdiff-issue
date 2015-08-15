@@ -1,1 +1,2 @@
 initial as A for file2 in master
+added by E for file1 in common
